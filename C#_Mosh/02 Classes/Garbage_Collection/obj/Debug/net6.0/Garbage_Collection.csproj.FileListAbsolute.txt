@@ -1,0 +1,15 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Garbage_Collection\bin\Debug\net6.0\Garbage_Collection.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Garbage_Collection\bin\Debug\net6.0\Garbage_Collection.deps.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Garbage_Collection\bin\Debug\net6.0\Garbage_Collection.runtimeconfig.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Garbage_Collection\bin\Debug\net6.0\Garbage_Collection.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Garbage_Collection\bin\Debug\net6.0\Garbage_Collection.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Garbage_Collection\obj\Debug\net6.0\Garbage_Collection.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Garbage_Collection\obj\Debug\net6.0\Garbage_Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Garbage_Collection\obj\Debug\net6.0\Garbage_Collection.AssemblyInfoInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Garbage_Collection\obj\Debug\net6.0\Garbage_Collection.AssemblyInfo.cs
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Garbage_Collection\obj\Debug\net6.0\Garbage_Collection.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Garbage_Collection\obj\Debug\net6.0\Garbage_Collection.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Garbage_Collection\obj\Debug\net6.0\refint\Garbage_Collection.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Garbage_Collection\obj\Debug\net6.0\Garbage_Collection.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Garbage_Collection\obj\Debug\net6.0\Garbage_Collection.genruntimeconfig.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Garbage_Collection\obj\Debug\net6.0\ref\Garbage_Collection.dll

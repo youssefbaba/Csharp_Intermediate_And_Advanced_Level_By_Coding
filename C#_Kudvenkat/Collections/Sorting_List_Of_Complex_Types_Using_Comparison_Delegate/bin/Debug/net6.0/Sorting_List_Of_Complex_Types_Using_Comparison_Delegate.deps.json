@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sorting_List_Of_Complex_Types_Using_Comparison_Delegate/1.0.0": {
+        "runtime": {
+          "Sorting_List_Of_Complex_Types_Using_Comparison_Delegate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sorting_List_Of_Complex_Types_Using_Comparison_Delegate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

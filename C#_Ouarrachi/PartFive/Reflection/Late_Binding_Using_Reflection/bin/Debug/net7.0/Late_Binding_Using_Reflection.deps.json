@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Late_Binding_Using_Reflection/1.0.0": {
+        "runtime": {
+          "Late_Binding_Using_Reflection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Late_Binding_Using_Reflection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

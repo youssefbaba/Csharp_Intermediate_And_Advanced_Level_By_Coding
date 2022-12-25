@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Linq_For_Lists_Sorting_Filtering_And_Aggregating_Lists_Easily/1.0.0": {
+        "runtime": {
+          "Linq_For_Lists_Sorting_Filtering_And_Aggregating_Lists_Easily.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Linq_For_Lists_Sorting_Filtering_And_Aggregating_Lists_Easily/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

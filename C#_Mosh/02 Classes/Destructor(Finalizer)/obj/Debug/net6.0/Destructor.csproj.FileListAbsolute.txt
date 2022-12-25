@@ -1,0 +1,15 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Destructor(Finalizer)\bin\Debug\net6.0\Destructor.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Destructor(Finalizer)\bin\Debug\net6.0\Destructor.deps.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Destructor(Finalizer)\bin\Debug\net6.0\Destructor.runtimeconfig.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Destructor(Finalizer)\bin\Debug\net6.0\Destructor.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Destructor(Finalizer)\bin\Debug\net6.0\Destructor.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Destructor(Finalizer)\obj\Debug\net6.0\Destructor.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Destructor(Finalizer)\obj\Debug\net6.0\Destructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Destructor(Finalizer)\obj\Debug\net6.0\Destructor.AssemblyInfoInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Destructor(Finalizer)\obj\Debug\net6.0\Destructor.AssemblyInfo.cs
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Destructor(Finalizer)\obj\Debug\net6.0\Destructor.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Destructor(Finalizer)\obj\Debug\net6.0\Destructor.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Destructor(Finalizer)\obj\Debug\net6.0\refint\Destructor.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Destructor(Finalizer)\obj\Debug\net6.0\Destructor.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Destructor(Finalizer)\obj\Debug\net6.0\Destructor.genruntimeconfig.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Destructor(Finalizer)\obj\Debug\net6.0\ref\Destructor.dll

@@ -1,0 +1,15 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Constructor_Part3\bin\Debug\net6.0\Constructor_Part3.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Constructor_Part3\bin\Debug\net6.0\Constructor_Part3.deps.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Constructor_Part3\bin\Debug\net6.0\Constructor_Part3.runtimeconfig.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Constructor_Part3\bin\Debug\net6.0\Constructor_Part3.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Constructor_Part3\bin\Debug\net6.0\Constructor_Part3.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Constructor_Part3\obj\Debug\net6.0\Constructor_Part3.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Constructor_Part3\obj\Debug\net6.0\Constructor_Part3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Constructor_Part3\obj\Debug\net6.0\Constructor_Part3.AssemblyInfoInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Constructor_Part3\obj\Debug\net6.0\Constructor_Part3.AssemblyInfo.cs
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Constructor_Part3\obj\Debug\net6.0\Constructor_Part3.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Constructor_Part3\obj\Debug\net6.0\Constructor_Part3.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Constructor_Part3\obj\Debug\net6.0\refint\Constructor_Part3.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Constructor_Part3\obj\Debug\net6.0\Constructor_Part3.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Constructor_Part3\obj\Debug\net6.0\Constructor_Part3.genruntimeconfig.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Constructor_Part3\obj\Debug\net6.0\ref\Constructor_Part3.dll

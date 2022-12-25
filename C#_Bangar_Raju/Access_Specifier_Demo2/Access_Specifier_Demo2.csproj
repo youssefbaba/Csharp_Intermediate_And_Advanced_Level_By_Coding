@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <StartupObject>Access_Specifier_Demo2.FifthClass</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Access_Specifier_Demo1">
+      <HintPath>..\Access_Specifier_Demo1\bin\Debug\net6.0\Access_Specifier_Demo1.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

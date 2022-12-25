@@ -1,0 +1,15 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartTwo\Inheritance\Inheritance_Part2\bin\Debug\net6.0\Inheritance_Part2.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartTwo\Inheritance\Inheritance_Part2\bin\Debug\net6.0\Inheritance_Part2.deps.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartTwo\Inheritance\Inheritance_Part2\bin\Debug\net6.0\Inheritance_Part2.runtimeconfig.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartTwo\Inheritance\Inheritance_Part2\bin\Debug\net6.0\Inheritance_Part2.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartTwo\Inheritance\Inheritance_Part2\bin\Debug\net6.0\Inheritance_Part2.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartTwo\Inheritance\Inheritance_Part2\obj\Debug\net6.0\Inheritance_Part2.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartTwo\Inheritance\Inheritance_Part2\obj\Debug\net6.0\Inheritance_Part2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartTwo\Inheritance\Inheritance_Part2\obj\Debug\net6.0\Inheritance_Part2.AssemblyInfoInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartTwo\Inheritance\Inheritance_Part2\obj\Debug\net6.0\Inheritance_Part2.AssemblyInfo.cs
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartTwo\Inheritance\Inheritance_Part2\obj\Debug\net6.0\Inheritance_Part2.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartTwo\Inheritance\Inheritance_Part2\obj\Debug\net6.0\Inheritance_Part2.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartTwo\Inheritance\Inheritance_Part2\obj\Debug\net6.0\refint\Inheritance_Part2.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartTwo\Inheritance\Inheritance_Part2\obj\Debug\net6.0\Inheritance_Part2.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartTwo\Inheritance\Inheritance_Part2\obj\Debug\net6.0\Inheritance_Part2.genruntimeconfig.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartTwo\Inheritance\Inheritance_Part2\obj\Debug\net6.0\ref\Inheritance_Part2.dll

@@ -1,0 +1,15 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Indexers\bin\Debug\net6.0\Indexers.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Indexers\bin\Debug\net6.0\Indexers.deps.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Indexers\bin\Debug\net6.0\Indexers.runtimeconfig.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Indexers\bin\Debug\net6.0\Indexers.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Indexers\bin\Debug\net6.0\Indexers.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Indexers\obj\Debug\net6.0\Indexers.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Indexers\obj\Debug\net6.0\Indexers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Indexers\obj\Debug\net6.0\Indexers.AssemblyInfoInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Indexers\obj\Debug\net6.0\Indexers.AssemblyInfo.cs
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Indexers\obj\Debug\net6.0\Indexers.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Indexers\obj\Debug\net6.0\Indexers.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Indexers\obj\Debug\net6.0\refint\Indexers.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Indexers\obj\Debug\net6.0\Indexers.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Indexers\obj\Debug\net6.0\Indexers.genruntimeconfig.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Indexers\obj\Debug\net6.0\ref\Indexers.dll

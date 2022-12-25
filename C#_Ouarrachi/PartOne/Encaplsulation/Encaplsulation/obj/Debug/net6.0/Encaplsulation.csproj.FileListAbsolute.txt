@@ -1,0 +1,15 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\Encaplsulation\Encaplsulation\bin\Debug\net6.0\Encaplsulation.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\Encaplsulation\Encaplsulation\bin\Debug\net6.0\Encaplsulation.deps.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\Encaplsulation\Encaplsulation\bin\Debug\net6.0\Encaplsulation.runtimeconfig.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\Encaplsulation\Encaplsulation\bin\Debug\net6.0\Encaplsulation.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\Encaplsulation\Encaplsulation\bin\Debug\net6.0\Encaplsulation.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\Encaplsulation\Encaplsulation\obj\Debug\net6.0\Encaplsulation.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\Encaplsulation\Encaplsulation\obj\Debug\net6.0\Encaplsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\Encaplsulation\Encaplsulation\obj\Debug\net6.0\Encaplsulation.AssemblyInfoInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\Encaplsulation\Encaplsulation\obj\Debug\net6.0\Encaplsulation.AssemblyInfo.cs
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\Encaplsulation\Encaplsulation\obj\Debug\net6.0\Encaplsulation.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\Encaplsulation\Encaplsulation\obj\Debug\net6.0\Encaplsulation.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\Encaplsulation\Encaplsulation\obj\Debug\net6.0\refint\Encaplsulation.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\Encaplsulation\Encaplsulation\obj\Debug\net6.0\Encaplsulation.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\Encaplsulation\Encaplsulation\obj\Debug\net6.0\Encaplsulation.genruntimeconfig.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\Encaplsulation\Encaplsulation\obj\Debug\net6.0\ref\Encaplsulation.dll

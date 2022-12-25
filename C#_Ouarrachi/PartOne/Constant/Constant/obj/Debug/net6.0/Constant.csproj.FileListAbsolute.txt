@@ -1,0 +1,15 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\Constant\Constant\bin\Debug\net6.0\Constant.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\Constant\Constant\bin\Debug\net6.0\Constant.deps.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\Constant\Constant\bin\Debug\net6.0\Constant.runtimeconfig.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\Constant\Constant\bin\Debug\net6.0\Constant.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\Constant\Constant\bin\Debug\net6.0\Constant.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\Constant\Constant\obj\Debug\net6.0\Constant.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\Constant\Constant\obj\Debug\net6.0\Constant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\Constant\Constant\obj\Debug\net6.0\Constant.AssemblyInfoInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\Constant\Constant\obj\Debug\net6.0\Constant.AssemblyInfo.cs
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\Constant\Constant\obj\Debug\net6.0\Constant.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\Constant\Constant\obj\Debug\net6.0\Constant.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\Constant\Constant\obj\Debug\net6.0\refint\Constant.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\Constant\Constant\obj\Debug\net6.0\Constant.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\Constant\Constant\obj\Debug\net6.0\Constant.genruntimeconfig.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\Constant\Constant\obj\Debug\net6.0\ref\Constant.dll

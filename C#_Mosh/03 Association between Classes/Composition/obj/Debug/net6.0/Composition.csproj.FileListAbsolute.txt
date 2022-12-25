@@ -1,0 +1,15 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\03 Association between Classes\Composition\obj\Debug\net6.0\Composition.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\03 Association between Classes\Composition\obj\Debug\net6.0\Composition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\03 Association between Classes\Composition\obj\Debug\net6.0\Composition.AssemblyInfoInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\03 Association between Classes\Composition\obj\Debug\net6.0\Composition.AssemblyInfo.cs
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\03 Association between Classes\Composition\obj\Debug\net6.0\Composition.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\03 Association between Classes\Composition\bin\Debug\net6.0\Composition.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\03 Association between Classes\Composition\bin\Debug\net6.0\Composition.deps.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\03 Association between Classes\Composition\bin\Debug\net6.0\Composition.runtimeconfig.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\03 Association between Classes\Composition\bin\Debug\net6.0\Composition.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\03 Association between Classes\Composition\bin\Debug\net6.0\Composition.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\03 Association between Classes\Composition\obj\Debug\net6.0\Composition.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\03 Association between Classes\Composition\obj\Debug\net6.0\refint\Composition.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\03 Association between Classes\Composition\obj\Debug\net6.0\Composition.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\03 Association between Classes\Composition\obj\Debug\net6.0\Composition.genruntimeconfig.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\03 Association between Classes\Composition\obj\Debug\net6.0\ref\Composition.dll

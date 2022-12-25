@@ -1,0 +1,15 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\13 Nullable Types\Nullable Types\bin\Debug\net6.0\Nullable Types.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\13 Nullable Types\Nullable Types\bin\Debug\net6.0\Nullable Types.deps.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\13 Nullable Types\Nullable Types\bin\Debug\net6.0\Nullable Types.runtimeconfig.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\13 Nullable Types\Nullable Types\bin\Debug\net6.0\Nullable Types.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\13 Nullable Types\Nullable Types\bin\Debug\net6.0\Nullable Types.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\13 Nullable Types\Nullable Types\obj\Debug\net6.0\Nullable Types.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\13 Nullable Types\Nullable Types\obj\Debug\net6.0\Nullable Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\13 Nullable Types\Nullable Types\obj\Debug\net6.0\Nullable Types.AssemblyInfoInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\13 Nullable Types\Nullable Types\obj\Debug\net6.0\Nullable Types.AssemblyInfo.cs
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\13 Nullable Types\Nullable Types\obj\Debug\net6.0\Nullable Types.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\13 Nullable Types\Nullable Types\obj\Debug\net6.0\Nullable Types.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\13 Nullable Types\Nullable Types\obj\Debug\net6.0\refint\Nullable Types.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\13 Nullable Types\Nullable Types\obj\Debug\net6.0\Nullable Types.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\13 Nullable Types\Nullable Types\obj\Debug\net6.0\Nullable Types.genruntimeconfig.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\13 Nullable Types\Nullable Types\obj\Debug\net6.0\ref\Nullable Types.dll

@@ -1,0 +1,15 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\PartialClass\PartialClass\bin\Debug\net6.0\PartialClass.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\PartialClass\PartialClass\bin\Debug\net6.0\PartialClass.deps.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\PartialClass\PartialClass\bin\Debug\net6.0\PartialClass.runtimeconfig.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\PartialClass\PartialClass\bin\Debug\net6.0\PartialClass.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\PartialClass\PartialClass\bin\Debug\net6.0\PartialClass.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\PartialClass\PartialClass\obj\Debug\net6.0\PartialClass.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\PartialClass\PartialClass\obj\Debug\net6.0\PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\PartialClass\PartialClass\obj\Debug\net6.0\PartialClass.AssemblyInfoInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\PartialClass\PartialClass\obj\Debug\net6.0\PartialClass.AssemblyInfo.cs
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\PartialClass\PartialClass\obj\Debug\net6.0\PartialClass.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\PartialClass\PartialClass\obj\Debug\net6.0\PartialClass.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\PartialClass\PartialClass\obj\Debug\net6.0\refint\PartialClass.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\PartialClass\PartialClass\obj\Debug\net6.0\PartialClass.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\PartialClass\PartialClass\obj\Debug\net6.0\PartialClass.genruntimeconfig.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\PartialClass\PartialClass\obj\Debug\net6.0\ref\PartialClass.dll

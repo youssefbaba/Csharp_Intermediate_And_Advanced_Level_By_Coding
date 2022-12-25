@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PartialClassTest2/1.0.0": {
+        "runtime": {
+          "PartialClassTest2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PartialClassTest2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

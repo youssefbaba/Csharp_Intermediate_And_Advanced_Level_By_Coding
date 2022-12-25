@@ -1,0 +1,15 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\16 Asynchronous\Async_await\bin\Debug\net6.0\Async_await.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\16 Asynchronous\Async_await\bin\Debug\net6.0\Async_await.deps.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\16 Asynchronous\Async_await\bin\Debug\net6.0\Async_await.runtimeconfig.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\16 Asynchronous\Async_await\bin\Debug\net6.0\Async_await.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\16 Asynchronous\Async_await\bin\Debug\net6.0\Async_await.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\16 Asynchronous\Async_await\obj\Debug\net6.0\Async_await.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\16 Asynchronous\Async_await\obj\Debug\net6.0\Async_await.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\16 Asynchronous\Async_await\obj\Debug\net6.0\Async_await.AssemblyInfoInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\16 Asynchronous\Async_await\obj\Debug\net6.0\Async_await.AssemblyInfo.cs
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\16 Asynchronous\Async_await\obj\Debug\net6.0\Async_await.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\16 Asynchronous\Async_await\obj\Debug\net6.0\Async_await.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\16 Asynchronous\Async_await\obj\Debug\net6.0\refint\Async_await.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\16 Asynchronous\Async_await\obj\Debug\net6.0\Async_await.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\16 Asynchronous\Async_await\obj\Debug\net6.0\Async_await.genruntimeconfig.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\16 Asynchronous\Async_await\obj\Debug\net6.0\ref\Async_await.dll

@@ -1,0 +1,8 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\06 Interfaces\Interfaces_And_Testability\obj\Debug\Interfaces_And_Testability.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\06 Interfaces\Interfaces_And_Testability\obj\Debug\Interfaces_And_Testability.csproj.SuggestedBindingRedirects.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\06 Interfaces\Interfaces_And_Testability\obj\Debug\Interfaces_And_Testability.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\06 Interfaces\Interfaces_And_Testability\bin\Debug\Interfaces_And_Testability.exe.config
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\06 Interfaces\Interfaces_And_Testability\bin\Debug\Interfaces_And_Testability.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\06 Interfaces\Interfaces_And_Testability\bin\Debug\Interfaces_And_Testability.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\06 Interfaces\Interfaces_And_Testability\obj\Debug\Interfaces_And_Testability.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\06 Interfaces\Interfaces_And_Testability\obj\Debug\Interfaces_And_Testability.pdb

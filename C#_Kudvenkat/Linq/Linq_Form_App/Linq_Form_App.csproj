@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Linq_For_Lists_Sorting_Filtering_And_Aggregating_Lists_Easily">
+      <HintPath>..\Linq_For_Lists_Sorting_Filtering_And_Aggregating_Lists_Easily\bin\Debug\net6.0\Linq_For_Lists_Sorting_Filtering_And_Aggregating_Lists_Easily.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

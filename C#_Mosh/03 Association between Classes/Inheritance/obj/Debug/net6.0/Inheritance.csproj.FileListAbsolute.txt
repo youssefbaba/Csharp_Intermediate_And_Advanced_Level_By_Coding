@@ -1,0 +1,15 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\03 Association between Classes\Inheritance\bin\Debug\net6.0\Inheritance.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\03 Association between Classes\Inheritance\bin\Debug\net6.0\Inheritance.deps.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\03 Association between Classes\Inheritance\bin\Debug\net6.0\Inheritance.runtimeconfig.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\03 Association between Classes\Inheritance\bin\Debug\net6.0\Inheritance.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\03 Association between Classes\Inheritance\bin\Debug\net6.0\Inheritance.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\03 Association between Classes\Inheritance\obj\Debug\net6.0\Inheritance.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\03 Association between Classes\Inheritance\obj\Debug\net6.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\03 Association between Classes\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\03 Association between Classes\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfo.cs
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\03 Association between Classes\Inheritance\obj\Debug\net6.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\03 Association between Classes\Inheritance\obj\Debug\net6.0\Inheritance.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\03 Association between Classes\Inheritance\obj\Debug\net6.0\refint\Inheritance.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\03 Association between Classes\Inheritance\obj\Debug\net6.0\Inheritance.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\03 Association between Classes\Inheritance\obj\Debug\net6.0\Inheritance.genruntimeconfig.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\03 Association between Classes\Inheritance\obj\Debug\net6.0\ref\Inheritance.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Window_Forms_Application_Anonymous_Methods/1.0.0": {
+        "runtime": {
+          "Window_Forms_Application_Anonymous_Methods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Window_Forms_Application_Anonymous_Methods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

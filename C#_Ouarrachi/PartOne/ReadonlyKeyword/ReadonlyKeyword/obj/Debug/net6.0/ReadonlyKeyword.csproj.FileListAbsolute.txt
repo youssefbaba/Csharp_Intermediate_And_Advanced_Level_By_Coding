@@ -1,0 +1,15 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\ReadonlyKeyword\ReadonlyKeyword\bin\Debug\net6.0\ReadonlyKeyword.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\ReadonlyKeyword\ReadonlyKeyword\bin\Debug\net6.0\ReadonlyKeyword.deps.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\ReadonlyKeyword\ReadonlyKeyword\bin\Debug\net6.0\ReadonlyKeyword.runtimeconfig.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\ReadonlyKeyword\ReadonlyKeyword\bin\Debug\net6.0\ReadonlyKeyword.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\ReadonlyKeyword\ReadonlyKeyword\bin\Debug\net6.0\ReadonlyKeyword.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\ReadonlyKeyword\ReadonlyKeyword\obj\Debug\net6.0\ReadonlyKeyword.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\ReadonlyKeyword\ReadonlyKeyword\obj\Debug\net6.0\ReadonlyKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\ReadonlyKeyword\ReadonlyKeyword\obj\Debug\net6.0\ReadonlyKeyword.AssemblyInfoInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\ReadonlyKeyword\ReadonlyKeyword\obj\Debug\net6.0\ReadonlyKeyword.AssemblyInfo.cs
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\ReadonlyKeyword\ReadonlyKeyword\obj\Debug\net6.0\ReadonlyKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\ReadonlyKeyword\ReadonlyKeyword\obj\Debug\net6.0\ReadonlyKeyword.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\ReadonlyKeyword\ReadonlyKeyword\obj\Debug\net6.0\refint\ReadonlyKeyword.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\ReadonlyKeyword\ReadonlyKeyword\obj\Debug\net6.0\ReadonlyKeyword.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\ReadonlyKeyword\ReadonlyKeyword\obj\Debug\net6.0\ReadonlyKeyword.genruntimeconfig.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartOne\ReadonlyKeyword\ReadonlyKeyword\obj\Debug\net6.0\ref\ReadonlyKeyword.dll

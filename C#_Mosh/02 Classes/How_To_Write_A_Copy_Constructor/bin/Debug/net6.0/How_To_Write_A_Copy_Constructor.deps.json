@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "How_To_Write_A_Copy_Constructor/1.0.0": {
+        "runtime": {
+          "How_To_Write_A_Copy_Constructor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "How_To_Write_A_Copy_Constructor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

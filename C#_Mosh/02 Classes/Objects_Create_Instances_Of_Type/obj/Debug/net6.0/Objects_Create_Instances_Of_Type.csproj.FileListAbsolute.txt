@@ -1,0 +1,15 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Objects_Create_Instances_Of_Type\bin\Debug\net6.0\Objects_Create_Instances_Of_Type.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Objects_Create_Instances_Of_Type\bin\Debug\net6.0\Objects_Create_Instances_Of_Type.deps.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Objects_Create_Instances_Of_Type\bin\Debug\net6.0\Objects_Create_Instances_Of_Type.runtimeconfig.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Objects_Create_Instances_Of_Type\bin\Debug\net6.0\Objects_Create_Instances_Of_Type.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Objects_Create_Instances_Of_Type\bin\Debug\net6.0\Objects_Create_Instances_Of_Type.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Objects_Create_Instances_Of_Type\obj\Debug\net6.0\Objects_Create_Instances_Of_Type.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Objects_Create_Instances_Of_Type\obj\Debug\net6.0\Objects_Create_Instances_Of_Type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Objects_Create_Instances_Of_Type\obj\Debug\net6.0\Objects_Create_Instances_Of_Type.AssemblyInfoInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Objects_Create_Instances_Of_Type\obj\Debug\net6.0\Objects_Create_Instances_Of_Type.AssemblyInfo.cs
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Objects_Create_Instances_Of_Type\obj\Debug\net6.0\Objects_Create_Instances_Of_Type.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Objects_Create_Instances_Of_Type\obj\Debug\net6.0\Objects_Create_Instances_Of_Type.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Objects_Create_Instances_Of_Type\obj\Debug\net6.0\refint\Objects_Create_Instances_Of_Type.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Objects_Create_Instances_Of_Type\obj\Debug\net6.0\Objects_Create_Instances_Of_Type.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Objects_Create_Instances_Of_Type\obj\Debug\net6.0\Objects_Create_Instances_Of_Type.genruntimeconfig.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Objects_Create_Instances_Of_Type\obj\Debug\net6.0\ref\Objects_Create_Instances_Of_Type.dll

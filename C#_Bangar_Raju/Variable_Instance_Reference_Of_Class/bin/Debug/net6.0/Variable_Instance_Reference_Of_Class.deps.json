@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Variable_Instance_Reference_Of_Class/1.0.0": {
+        "runtime": {
+          "Variable_Instance_Reference_Of_Class.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Variable_Instance_Reference_Of_Class/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

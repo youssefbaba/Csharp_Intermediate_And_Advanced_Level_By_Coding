@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "When_To_Use_A_Dictionary_Over_List/1.0.0": {
+        "runtime": {
+          "When_To_Use_A_Dictionary_Over_List.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "When_To_Use_A_Dictionary_Over_List/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

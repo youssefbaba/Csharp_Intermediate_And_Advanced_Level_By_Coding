@@ -1,0 +1,8 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Garbage_Collection_Dot_Net_Framework\bin\Debug\Garbage_Collection_Dot_Net_Framework.exe.config
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Garbage_Collection_Dot_Net_Framework\bin\Debug\Garbage_Collection_Dot_Net_Framework.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Garbage_Collection_Dot_Net_Framework\bin\Debug\Garbage_Collection_Dot_Net_Framework.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Garbage_Collection_Dot_Net_Framework\obj\Debug\Garbage_Collection_Dot_Net_Framework.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Garbage_Collection_Dot_Net_Framework\obj\Debug\Garbage_Collection_Dot_Net_Framework.csproj.SuggestedBindingRedirects.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Garbage_Collection_Dot_Net_Framework\obj\Debug\Garbage_Collection_Dot_Net_Framework.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Garbage_Collection_Dot_Net_Framework\obj\Debug\Garbage_Collection_Dot_Net_Framework.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Garbage_Collection_Dot_Net_Framework\obj\Debug\Garbage_Collection_Dot_Net_Framework.pdb

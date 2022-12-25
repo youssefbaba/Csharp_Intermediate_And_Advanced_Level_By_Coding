@@ -1,0 +1,15 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Instance_And_Static_Constructors\bin\Debug\net6.0\Instance_And_Static_Constructors.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Instance_And_Static_Constructors\bin\Debug\net6.0\Instance_And_Static_Constructors.deps.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Instance_And_Static_Constructors\bin\Debug\net6.0\Instance_And_Static_Constructors.runtimeconfig.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Instance_And_Static_Constructors\bin\Debug\net6.0\Instance_And_Static_Constructors.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Instance_And_Static_Constructors\bin\Debug\net6.0\Instance_And_Static_Constructors.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Instance_And_Static_Constructors\obj\Debug\net6.0\Instance_And_Static_Constructors.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Instance_And_Static_Constructors\obj\Debug\net6.0\Instance_And_Static_Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Instance_And_Static_Constructors\obj\Debug\net6.0\Instance_And_Static_Constructors.AssemblyInfoInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Instance_And_Static_Constructors\obj\Debug\net6.0\Instance_And_Static_Constructors.AssemblyInfo.cs
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Instance_And_Static_Constructors\obj\Debug\net6.0\Instance_And_Static_Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Instance_And_Static_Constructors\obj\Debug\net6.0\Instance_And_Static_Constructors.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Instance_And_Static_Constructors\obj\Debug\net6.0\refint\Instance_And_Static_Constructors.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Instance_And_Static_Constructors\obj\Debug\net6.0\Instance_And_Static_Constructors.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Instance_And_Static_Constructors\obj\Debug\net6.0\Instance_And_Static_Constructors.genruntimeconfig.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Mosh\02 Classes\Instance_And_Static_Constructors\obj\Debug\net6.0\ref\Instance_And_Static_Constructors.dll

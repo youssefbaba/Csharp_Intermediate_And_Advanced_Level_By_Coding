@@ -1,0 +1,15 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Collections_Part6\bin\Debug\net6.0\Collections_Part6.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Collections_Part6\bin\Debug\net6.0\Collections_Part6.deps.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Collections_Part6\bin\Debug\net6.0\Collections_Part6.runtimeconfig.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Collections_Part6\bin\Debug\net6.0\Collections_Part6.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Collections_Part6\bin\Debug\net6.0\Collections_Part6.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Collections_Part6\obj\Debug\net6.0\Collections_Part6.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Collections_Part6\obj\Debug\net6.0\Collections_Part6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Collections_Part6\obj\Debug\net6.0\Collections_Part6.AssemblyInfoInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Collections_Part6\obj\Debug\net6.0\Collections_Part6.AssemblyInfo.cs
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Collections_Part6\obj\Debug\net6.0\Collections_Part6.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Collections_Part6\obj\Debug\net6.0\Collections_Part6.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Collections_Part6\obj\Debug\net6.0\refint\Collections_Part6.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Collections_Part6\obj\Debug\net6.0\Collections_Part6.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Collections_Part6\obj\Debug\net6.0\Collections_Part6.genruntimeconfig.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\Bangar_Raju\Collections_Part6\obj\Debug\net6.0\ref\Collections_Part6.dll

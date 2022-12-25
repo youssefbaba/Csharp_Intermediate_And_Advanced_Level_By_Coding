@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anonymous_Methods", "Anonymous_Methods\Anonymous_Methods.csproj", "{2DE013B5-84E2-47EF-A427-94EAB2F9357B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForm_Anonymous_Methods", "WinForm_Anonymous_Methods\WinForm_Anonymous_Methods.csproj", "{86483254-17EF-4202-882E-0D5259E4012F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DE013B5-84E2-47EF-A427-94EAB2F9357B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE013B5-84E2-47EF-A427-94EAB2F9357B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE013B5-84E2-47EF-A427-94EAB2F9357B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE013B5-84E2-47EF-A427-94EAB2F9357B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86483254-17EF-4202-882E-0D5259E4012F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86483254-17EF-4202-882E-0D5259E4012F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86483254-17EF-4202-882E-0D5259E4012F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86483254-17EF-4202-882E-0D5259E4012F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41E7FAD4-CBFA-4F42-AE5F-162ABE989C41}
+	EndGlobalSection
+EndGlobal

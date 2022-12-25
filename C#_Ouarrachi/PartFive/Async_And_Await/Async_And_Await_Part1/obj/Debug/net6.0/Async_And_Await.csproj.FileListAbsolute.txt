@@ -1,0 +1,15 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartFive\Async_And_Await\Async_And_Await\Async_And_Await\bin\Debug\net6.0\Async_And_Await.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartFive\Async_And_Await\Async_And_Await\Async_And_Await\bin\Debug\net6.0\Async_And_Await.deps.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartFive\Async_And_Await\Async_And_Await\Async_And_Await\bin\Debug\net6.0\Async_And_Await.runtimeconfig.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartFive\Async_And_Await\Async_And_Await\Async_And_Await\bin\Debug\net6.0\Async_And_Await.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartFive\Async_And_Await\Async_And_Await\Async_And_Await\bin\Debug\net6.0\Async_And_Await.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartFive\Async_And_Await\Async_And_Await\Async_And_Await\obj\Debug\net6.0\Async_And_Await.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartFive\Async_And_Await\Async_And_Await\Async_And_Await\obj\Debug\net6.0\Async_And_Await.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartFive\Async_And_Await\Async_And_Await\Async_And_Await\obj\Debug\net6.0\Async_And_Await.AssemblyInfoInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartFive\Async_And_Await\Async_And_Await\Async_And_Await\obj\Debug\net6.0\Async_And_Await.AssemblyInfo.cs
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartFive\Async_And_Await\Async_And_Await\Async_And_Await\obj\Debug\net6.0\Async_And_Await.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartFive\Async_And_Await\Async_And_Await\Async_And_Await\obj\Debug\net6.0\Async_And_Await.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartFive\Async_And_Await\Async_And_Await\Async_And_Await\obj\Debug\net6.0\refint\Async_And_Await.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartFive\Async_And_Await\Async_And_Await\Async_And_Await\obj\Debug\net6.0\Async_And_Await.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartFive\Async_And_Await\Async_And_Await\Async_And_Await\obj\Debug\net6.0\Async_And_Await.genruntimeconfig.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Cours\Csharp_Intermediate\C#_Ouarrachi\PartFive\Async_And_Await\Async_And_Await\Async_And_Await\obj\Debug\net6.0\ref\Async_And_Await.dll
